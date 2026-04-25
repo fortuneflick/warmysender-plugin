@@ -1,0 +1,13 @@
+{
+  "name": "warmysender",
+  "version": "1.0.0",
+  "description": "Cold email campaigns, email warmup, LinkedIn outreach, and 20M+ B2B lead database. Manage campaigns, prospects, mailboxes, and warmup settings via natural language.",
+  "author": {
+    "name": "WarmySender",
+    "url": "https://warmysender.com"
+  },
+  "homepage": "https://warmysender.com",
+  "repository": "https://github.com/fortuneflick/warmysender-plugin",
+  "license": "MIT",
+  "keywords": ["cold-email", "email-warmup", "linkedin-outreach", "b2b-leads", "sales-automation", "outreach", "mcp", "campaigns"]
+}
